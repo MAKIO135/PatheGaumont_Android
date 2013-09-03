@@ -6,6 +6,8 @@ A fast and light Android app to get movie times in Pathé/Gaumont cinemas, in Fr
 Adaptive view for any reasonnable size screens.<br>
 Made with Processing 2.0.2, Ketai and Jsoup libs.
 
+Check the code or download the apk release : [https://github.com/MAKIO135/PatheGaumont_Android/releases/](https://github.com/MAKIO135/PatheGaumont_Android/releases/)
+
 # Permissions required: #
 - Internet
 - location to find nearest cinemas
